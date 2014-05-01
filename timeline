@@ -1,0 +1,5 @@
+Create new Maven Project with Simple Archtype
+On terminal browse to root and type "git init" to add .git directory
+add DS_Store to exclude file in.git folder
+Update Project JRE to Java 1.6
+Add Spring Nature to project from Spring Tools
