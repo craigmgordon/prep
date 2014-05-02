@@ -1,0 +1,5 @@
+Add to github
+Use eGIT? or similar what is already in STS?
+http://ojitha.blogspot.co.uk/2013/04/how-to-github-projects-in-spring-tool.html
+check version history of files, are pom, timeline etc definitely being tracked and changes stored?
+Is TO DO.txt being tracked?

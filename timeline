@@ -1,5 +1,13 @@
 Create new Maven Project with Simple Archtype
+Add timeline file in root
 On terminal browse to root and type "git init" to add .git directory
 add DS_Store to exclude file in.git folder
 Update Project JRE to Java 1.6
 Add Spring Nature to project from Spring Tools
+Run "git add ." from project root in terminal
+Add Spring Core library
+Add jUnit
+Run as maven build (clean install)
+add TO DO.txt in root
+add to git and commit
+git log shows commit history
